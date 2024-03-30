@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kian
 - 👀 I’m interested in TypeScript, React, Backend and okay well just Full Stack. I'm also a little into design  
-- 🌱 I’m currently learning Next.js
-- 💞️ I’m open for Work at the moment :)
+- 🌱 Always learning
+- 💞️ I’m open for Work very soon 
 - 📫 kianluetke@gmail.com
 
 <!---
